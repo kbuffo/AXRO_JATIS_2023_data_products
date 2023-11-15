@@ -1,0 +1,8 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.npy filter=lfs diff=lfs merge=lfs -text
+/data/23-05-19_pre-pole_15V_short_test filter=lfs diff=lfs merge=lfs -text
+/data/23-05-19_pre-pole_15V_volt_test filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+/data/23-08-11_meas_norm_stitch_Ind_2_Dof_cells filter=lfs diff=lfs merge=lfs -text
+/data/23-08-11_theo_norm_stitch_Ind_2_Dof_cells filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
